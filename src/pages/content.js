@@ -1,5 +1,5 @@
 // Personal Information --> #hero section
-export const name = "Jaymart Padilla!";
+export const name = "Jaymart Padilla";
 export const designation = "Full Stack Web Developer";
 export const email = "jaymartpadilla.dev@gmail.com";
 export const pronouns = "he/him";
