@@ -7,8 +7,10 @@ export const linkedIn = "https://www.linkedin.com/in/jaymartpadilla/";
 export const website = "https://www.linkedin.com/in/jaymartpadilla/";
 
 // About
-export const about =
-  "My name is Jaymart R. Padilla, This is a placeholder text for the about section.";
+export const about = `
+  My name is <a href="${website}" target="_blank" class="text-text hover:text-blue-300">Jaymart R. Padilla</a>, 
+  This is a placeholder text for the about section.
+`;
 
 // Work Experience --> #work section
 export const work = [
